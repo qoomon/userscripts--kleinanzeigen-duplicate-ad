@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         eBay Kleinanzeigen Dublicate Ad
 // @namespace    https://qoomon.github.io
-// @version      0.1
+// @version      1.0.0
 // @updateURL    https://github.com/qoomon/userscript-ebay-kleinanzeigen-duplicate-ad/raw/main/ebay-kleinanzeigen-duplicate-ad.user.js
 // @downloadURL  https://github.com/qoomon/userscript-ebay-kleinanzeigen-duplicate-ad/raw/main/ebay-kleinanzeigen-duplicate-ad.user.js
 // @description  Adds a dublicate ad button to edit ad page
