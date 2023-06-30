@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name         eBay Kleinanzeigen Dublicate Ad
+// @name         Kleinanzeigen Dublicate Ad
 // @namespace    https://qoomon.github.io
 // @version      1.0.0
-// @updateURL    https://github.com/qoomon/userscript-ebay-kleinanzeigen-duplicate-ad/raw/main/ebay-kleinanzeigen-duplicate-ad.user.js
-// @downloadURL  https://github.com/qoomon/userscript-ebay-kleinanzeigen-duplicate-ad/raw/main/ebay-kleinanzeigen-duplicate-ad.user.js
+// @updateURL    https://github.com/qoomon/userscript-kleinanzeigen-duplicate-ad/raw/main/kleinanzeigen-duplicate-ad.user.js
+// @downloadURL  https://github.com/qoomon/userscript-kleinanzeigen-duplicate-ad/raw/main/kleinanzeigen-duplicate-ad.user.js
 // @description  Adds a dublicate ad button to edit ad page
 // @author       qoomon
-// @match        https://www.ebay-kleinanzeigen.de/p-anzeige-bearbeiten.html?adId=*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=ebay-kleinanzeigen.de
+// @match        https://www.kleinanzeigen.de/p-anzeige-bearbeiten.html?adId=*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=kleinanzeigen.de
 // @grant        none
 // ==/UserScript==
 
